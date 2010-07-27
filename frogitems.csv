@@ -1,0 +1,282 @@
+2,1,Structures,0,1,0
+3,2,Factories,0,1,0
+4,3,Wearables Factory,1590,1,0
+5,3,Food Factory,1591,1,0
+6,3,Equipment Factory,1592,1,0
+7,3,Structure Factory,1593,1,0
+8,2,Harvesters,0,1,0
+9,8,Flora Harvester,0,1,0
+10,9,Small,1601,1,0
+11,9,Heavy,1602,1,0
+12,9,Medium,1603,1,0
+13,8,Gas Harvester,0,1,0
+14,13,Small,1604,1,0
+15,13,Heavy,1605,1,0
+16,13,Medium,1606,1,0
+17,8,Chemical Harvester,0,1,0
+18,17,Small,1607,1,0
+19,17,Heavy,1608,1,0
+20,17,Medium,1609,1,0
+21,8,Water Harvester,0,1,0
+22,21,Small,1610,1,0
+23,21,Heavy,1611,1,0
+24,21,Medium,1612,1,0
+25,8,Mineral Harvester,0,1,0
+26,25,Small,1613,1,0
+27,25,Heavy,1614,1,0
+28,25,Medium,1615,1,0
+29,2,Camps,0,1,0
+30,29,Basic Camp,1970,1,0
+31,29,Field Base Camp,1971,1,0
+32,29,Improved Camp,1972,1,0
+33,29,HiTech Field Base Camp,1973,1,0
+34,29,Multiperson Camp,1974,1,0
+35,29,High Quality Camp,1975,1,0
+36,2,Houses,0,1,0
+37,36,Generic Houses,0,1,0
+38,37,Generic Large (Style 1),1720,1,0
+39,37,Generic Large (Style 2),1721,1,0
+40,37,Generic Medium (Style 1),1722,1,0
+41,37,Generic Medium (Style 2),1723,1,0
+42,37,Generic Small (Style 1 Floor 1),1724,1,0
+43,37,Generic Small (Style 1 Floor 2),1725,1,0
+44,37,Generic Small (Style 2 Floor 1),1726,1,0
+45,37,Generic Small (Style 2 Floor 2),1727,1,0
+46,36,Tatooine Houses,0,1,0
+47,46,Tatooine Large,1732,1,0
+48,46,Tatooine Medium,1733,1,0
+49,46,Tatooine Small (Style 1),1734,1,0
+50,46,Tatooine Small (Style 2),1735,1,0
+51,2,Civic,0,1,0
+52,51,Guild Halls,0,1,0
+53,52,Corellia Guild Hall,1597,1,0
+54,52,Generic Guild Hall,1598,1,0
+55,52,Naboo Guild Hall,1599,1,0
+56,52,Tatooine Guild Hall,1600,1,0
+57,51,City Halls,0,1,0
+58,57,Corellian City Hall,1566,1,0
+59,57,Nabooian City Hall,1567,1,0
+60,57,Tatooine City Hall,1568,1,0
+61,1,Furniture,0,1,0
+62,61,Rugs,0,1,0
+63,62,Large Style 1,378,1,0
+64,62,Large Style 2,285,1,0
+65,62,Large Style 3,472,1,0
+66,61,Plants,0,1,0
+67,66,Large Style 1,364,1,0
+68,66,Large Style 2,312,1,0
+69,61,Elegant,0,1,0
+70,69,Armoire,260,1,0
+71,69,Bookcase,328,1,0
+72,69,Cabinet,403,1,0
+73,69,Chair,254,1,0
+74,69,Chest,433,1,0
+75,69,Coffee Table,322,1,0
+76,69,Couch,408,1,0
+77,69,End Table,229,1,0
+78,69,Love Seat,217,1,0
+79,61,Modern,0,1,0
+80,79,Armoire,330,1,0
+81,79,Bookcase,263,1,0
+82,79,Cabinet,302,1,0
+83,79,Chair,296,1,0
+84,79,Chest,425,1,0
+85,79,Coffee Table,332,1,0
+86,79,Couch Style 1,264,1,0
+87,79,Couch Style 2,464,1,0
+88,79,Dining Table,457,1,0
+89,79,End Table,232,1,0
+90,79,Love Seat,334,1,0
+91,61,Plain,0,1,0
+92,91,Armoire,424,1,0
+93,91,Bookcase,434,1,0
+94,91,Cabinet,456,1,0
+95,91,Chair,344,1,0
+96,91,Chest,359,1,0
+97,91,Coffee Table,438,1,0
+98,91,Couch,289,1,0
+99,91,End Table,376,1,0
+100,91,Love Seat,419,1,0
+101,61,Cheap,0,1,0
+102,101,Armoire,252,1,0
+103,101,Bookcase,227,1,0
+104,101,Cabinet,309,1,0
+105,101,Chair,213,1,0
+106,101,Chest,467,1,0
+107,101,Coffee Table,447,1,0
+108,101,Couch,248,1,0
+109,101,End Table,223,1,0
+110,101,Love Seat,237,1,0
+111,1,Vehicles,0,1,0
+112,111,x34 Landspeeder,1736,1,0
+113,111,Speederbike,1737,1,0
+114,111,Swoop,1738,1,0
+115,1,Instruments,0,1,0
+116,115,Bandfill,1316,1,0
+117,115,Fanfar,1318,1,0
+118,115,Fizzz,1315,1,0
+119,115,Chidinkalu Horn,1317,1,0
+120,115,Kloo Horn,1314,1,0
+121,115,Mandoviol,1323,1,0
+122,115,Nalargon,1320,1,0
+123,115,Omni Box,1319,1,0
+124,115,slitherhorn,1313,1,0
+125,115,Traz,1322,1,0
+126,1,Tools,0,1,0
+127,126,Survey Tool,0,1,0
+128,127,Wind,1,1,0
+129,127,Gas,2,1,0
+130,127,Flora,3,1,0
+131,127,Moisture,4,1,0
+132,127,Chemical,5,1,0
+133,127,Solar,6,1,0
+134,127,Mineral,7,1,0
+135,127,Organic,8,1,0
+136,127,Inorganic,9,1,0
+137,126,Crafting Tool,0,1,0
+138,137,Clothing & Armor,11,1,0
+139,137,Generic,12,1,0
+140,137,Weapon,13,1,0
+141,137,Food,14,1,0
+142,137,Structure,15,1,0
+143,1,Weapons,0,1,0
+144,143,Melee,0,1,0
+145,144,One Handed Sword,0,1,0
+146,145,Noob Sword,2651,1,0
+147,145,Sword 1,2301,1,0
+148,145,Sword 2,2302,1,0
+149,144,Two Handed Sword,0,1,0
+150,149,Battleaxe,2272,1,0
+151,149,Cleaver,2273,1,0
+152,149,Maul,2275,1,0
+153,149,Scythe,2561,1,0
+154,144,Axe,0,1,0
+155,154,Heavy Duty,2276,1,0
+156,154,Vibroaxe,2277,1,0
+157,144,Baton,0,1,0
+158,157,Gaderiffi,2278,1,0
+159,157,Stun Baton,2279,1,0
+160,157,Victor Gaderiffi,2627,1,0
+161,144,Polearm,0,1,0
+162,161,Controller,2288,1,0
+163,161,Janta,2637,1,0
+164,161,Metal,2289,1,0
+165,161,Wood (Type 1),2290,1,0
+166,161,Wood (Type 2),2291,1,0
+167,161,Vibrolance,2292,1,0
+168,161,Polearm Vibro Axe,2293,1,0
+169,144,Knife,0,1,0
+170,169,Dagger,2280,1,0
+171,169,Donkuwah,2628,1,0
+172,169,Janta,2629,1,0
+173,169,Stone,2630,1,0
+174,169,Stone (Noob),2631,1,0
+175,169,Survival,2281,1,0
+176,169,Vibroblade,2282,1,0
+177,144,Unarmed,0,1,0
+178,177,Vibro Knuckler,2294,1,0
+179,143,Ranged,0,1,0
+180,179,Carbine,0,1,0
+181,180,CDEF Carbine,2307,1,0
+182,180,CDEF CorSec Carbine,2745,1,0
+183,180,DH17,2308,1,0
+184,180,DH17 Black,1746,1,0
+185,180,DH17 Snub,2309,1,0
+186,180,DXR6,2310,1,0
+187,180,E11,2311,1,0
+188,180,EE3,2312,1,0
+189,180,Elite Carbine,2313,1,0
+190,180,Laser Carbine,2314,1,0
+191,180,Nym's Slugthrower,2749,1,0
+192,179,Thrown,0,1,0
+193,192,Bug Bomb,2750,1,0
+194,192,Cryoban,2315,1,0
+195,192,Fallback,2751,1,0
+196,192,Fragmentation,2316,1,0
+197,192,Fragmentation (Light),2317,1,0
+198,192,Glop,2318,1,0
+199,192,Imperial Detonator,2319,1,0
+200,192,Proton,2320,1,0
+201,192,Thermal Detonator,2321,1,0
+202,179,Heavy,0,1,0
+203,202,Acid Beam,2322,1,0
+204,202,Lightning Beam,2323,1,0
+205,202,Particle Beam,2324,1,0
+206,202,Heavy Rocket Launcher,2325,1,0
+207,202,Launcher,2753,1,0
+208,179,Pistol,0,1,0
+209,208,CDEF Pistol,2326,1,0
+210,208,CDEF CorSec Pistol,2754,1,0
+211,208,CDEF Noob Pistol,2755,1,0
+212,208,D18,2327,1,0
+213,208,DE10,2756,1,0
+214,208,DH17,2328,1,0
+215,208,DL44,2329,1,0
+216,208,DL44 Metal,2330,1,0
+217,208,DX2,2331,1,0
+218,208,FWG5,2332,1,0
+219,208,Launcher Pistol,2333,1,0
+220,208,Power5,2334,1,0
+221,208,Republic Blaster,2335,1,0
+222,208,Scatter Pistol,2336,1,0
+223,208,Scout Blaster,2337,1,0
+224,208,Scout CorSec Blaster,2761,1,0
+225,208,SR Combat,2338,1,0
+226,208,Striker,2339,1,0
+227,208,Striker (Noob),2762,1,0
+228,208,Tangle Pistol,2340,1,0
+229,179,Rifle,0,1,0
+230,229,Acid Beam,2341,1,0
+231,229,Beam Rifle,2342,1,0
+232,229,Beserker,2763,1,0
+233,229,Bowcaster,2343,1,0
+234,229,CDEF Rifle,2344,1,0
+235,229,DLT20,2345,1,0
+236,229,DLT20a,2346,1,0
+237,229,E11 Rifle,2347,1,0
+238,229,Ewok Crossbow,2764,1,0
+239,229,Flame Thrower,2348,1,0
+240,229,Jawa Ion,2349,1,0
+241,229,Laser Rifle,2350,1,0
+242,229,Laser Rifle (Noob),2765,1,0
+243,229,Lightning Rifle,2351,1,0
+244,229,SG82,2352,1,0
+245,229,Spraystick,2353,1,0
+246,229,T21,2354,1,0
+247,229,Tusken,2355,1,0
+248,229,Tusken (Victor),2767,1,0
+249,1,Armor,0,1,0
+250,249,Bone Armor,0,1,0
+251,250,Full Set,0,1,0
+252,250,Left Bicep,870,1,0
+253,250,Right Bicep,1131,1,0
+254,250,Boots,615,1,0
+255,250,Left Bracer,608,1,0
+256,250,Right Bracer,769,1,0
+257,250,Chest Plate,1177,1,0
+258,250,Gloves,1257,1,0
+259,250,Helmet,705,1,0
+260,250,Leggings,1001,1,0
+261,250,Alternative Left Bicep,1102,1,0
+262,249,Composite Armor,0,1,0
+263,262,Full Set,0,1,0
+264,262,Left Bicep,518,1,0
+265,262,Right Bicep,784,1,0
+266,262,Boots,1195,1,0
+267,262,Left Bracer,727,1,0
+268,262,Right Bracer,666,1,0
+269,262,Chest Plate,864,1,0
+270,262,Gloves,601,1,0
+271,262,Helmet,978,1,0
+272,262,Leggings,1107,1,0
+273,249,Ubese Armor,0,1,0
+274,273,Full Set,0,1,0
+275,273,Bandolier,1249,1,0
+276,273,Boots,711,1,0
+277,273,Left Bracer,1281,1,0
+278,273,Right Bracer,902,1,0
+279,273,Gloves,772,1,0
+280,273,Helmet,1232,1,0
+281,273,Jacket,1196,1,0
+282,273,Pants,1296,1,0
+283,273,Shirt,606,1,0

@@ -1,0 +1,9 @@
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\obj\x86\Debug\MenuCreator.Form1.resources
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\obj\x86\Debug\MenuCreator.Properties.Resources.resources
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\bin\Debug\MenuCreator.exe
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\bin\Debug\MenuCreator.pdb
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\obj\x86\Debug\MenuCreator.exe
+C:\Users\lp\documents\visual studio 2010\Projects\MenuCreator\MenuCreator\obj\x86\Debug\MenuCreator.pdb
